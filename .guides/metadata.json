@@ -1,0 +1,273 @@
+{
+ "sections": [
+  {
+   "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "title": "Arrays",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrays-82f1.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "e154febe-a7a1-5343-46e8-fe988d135d9",
+   "title": "Array of numbers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Array-of-numbers-e154.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "4d0391d-eda6-83d5-24e7-2987cc29fb0a",
+   "title": "Array of strings",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Array-of-strings-4d03.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "ff54e4d8-ab0e-92f9-6c0d-2405f5e0f028",
+   "title": "Defining an array",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "example1.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Defining-an-array-ff54.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7a8fcd98-907-392-7738-8b0be186b1d4",
+   "title": "Arrays in action",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "example1.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrays-in-action-7a8f.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "97098570-1fad-f0c-c7df-dff5704285f9",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sum.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-9709.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
+   "title": "Setting array elements",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "example3.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setting-array-elements-7abf.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "e8b16add-98fa-34d2-4852-8dc4961d9576",
+   "title": "Populate a new array",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "populate.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Populate-a-new-array-e8b1.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
+   "title": "Short string array",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "strarray.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Short-string-array-1970.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7510d998-2f84-be95-af18-be75d07f94",
+   "title": "Max number",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "max.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Max-number-7510.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "6420e0f5-c2d1-19b1-a5a7-ded39e3ca315",
+   "title": "Longest string",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "maxstring.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Longest-string-6420.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "4d8cc68b-670f-9911-87a8-644c5fa904",
+   "title": "Simple Number Search",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "numsearch.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-Number-Search-4d8c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
+   "title": "Simple string search",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-string-search-68ff.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "38373b23-a81-d9b3-7fcd-33fad4952452",
+   "title": "1 in, 2 out",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "split.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-in--2-out-3837.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
+   "title": "All done!!",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/All-done---8bcf.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

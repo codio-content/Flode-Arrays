@@ -13,8 +13,10 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Arrays-82f1.md",
-   "chapter": false,
-   "reset": []
+   "chapter": true,
+   "reset": [
+    "1-arrays"
+   ]
   },
   {
    "id": "e154febe-a7a1-5343-46e8-fe988d135d9",
@@ -45,7 +47,7 @@
      "action": "close"
     },
     {
-     "path": "example1.flode",
+     "path": "1-arrays/example1.flode",
      "panel": 0,
      "action": "open"
     }
@@ -60,17 +62,7 @@
   {
    "id": "7a8fcd98-907-392-7738-8b0be186b1d4",
    "title": "Arrays in action",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "example1.flode",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
+   "files": [],
    "layout": "",
    "path": [],
    "type": "markdown",
@@ -80,7 +72,7 @@
   },
   {
    "id": "97098570-1fad-f0c-c7df-dff5704285f9",
-   "title": "Challenge",
+   "title": "Challenge (array sum)",
    "files": [
     {
      "path": "#tabs",
@@ -95,7 +87,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge-9709.md",
+   "content-file": ".guides/content/Challenge--array-sum--9709.md",
    "chapter": false,
    "reset": []
   },
@@ -108,7 +100,7 @@
      "action": "close"
     },
     {
-     "path": "example3.flode",
+     "path": "1-arrays/example2.flode",
      "panel": 0,
      "action": "open"
     }
@@ -118,6 +110,22 @@
    "type": "markdown",
    "content-file": ".guides/content/Setting-array-elements-7abf.md",
    "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f9d0614b-94f4-d39c-be02-6b1368709d95",
+   "title": "Challenges",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenges-f9d0.md",
+   "chapter": true,
    "reset": []
   },
   {
@@ -150,7 +158,7 @@
      "action": "close"
     },
     {
-     "path": "strarray.js",
+     "path": "strarray.flode",
      "panel": 0,
      "action": "open"
     }
@@ -159,48 +167,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Short-string-array-1970.md",
-   "chapter": false,
-   "reset": []
-  },
-  {
-   "id": "7510d998-2f84-be95-af18-be75d07f94",
-   "title": "Max number",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "max.flode",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Max-number-7510.md",
-   "chapter": false,
-   "reset": []
-  },
-  {
-   "id": "6420e0f5-c2d1-19b1-a5a7-ded39e3ca315",
-   "title": "Longest string",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "maxstring.flode",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Longest-string-6420.md",
    "chapter": false,
    "reset": []
   },
@@ -226,12 +192,44 @@
    "reset": []
   },
   {
-   "id": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
-   "title": "Simple string search",
-   "files": [],
+   "id": "7510d998-2f84-be95-af18-be75d07f94",
+   "title": "Max number",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "max.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Simple-string-search-68ff.md",
+   "content-file": ".guides/content/Max-number-7510.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
+   "title": "X 10 every other",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "x10.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/X-10-every-other-68ff.md",
    "chapter": false,
    "reset": []
   },

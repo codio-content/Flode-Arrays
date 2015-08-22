@@ -1,6 +1,6 @@
 We can also have an array of strings. For example, the following is an array of people's first names.
 
-`Richard, Alice, Jennifer, Bob, Harry, Susan`
+`['Richard', 'Alice', 'Jennifer', 'Bob', 'Harry', 'Susan']`
 
 So, Jennifer is ...
 

@@ -257,7 +257,13 @@
   {
    "id": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
    "title": "All done!!",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/All-done---8bcf.md",

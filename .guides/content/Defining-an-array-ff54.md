@@ -5,7 +5,7 @@ Let's look at the 2 array examples we previously introduced.
 This array is represented like this in Flode (and also Javascript as it happens)
 
 ```javascript
-[12, 5, 68, 51, 62, 7, 0, 84, 23, 5]
+[12, 5, 79, 51, 62, 7, 0, 84, 23, 5]
 ```
 
 and our names array 

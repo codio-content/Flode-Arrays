@@ -1,0 +1,1 @@
+This Unit introduces you to Arrays in programming. You will find some theory and challenges.

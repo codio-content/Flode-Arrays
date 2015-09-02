@@ -1,18 +1,60 @@
 {
  "sections": [
   {
-   "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "id": "e942483c-b1f4-42b7-e597-33caf2e0e0",
    "title": "Arrays",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrays-e942.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "21716d87-335-fce8-1c91-31e242f8a449",
+   "title": "Preparation video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparation-video-2171.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "1e46398d-50ea-d061-25f0-26744848c984",
+   "title": "Experiments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "experiment.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Experiments-1e46.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "title": "Arrays explained",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Arrays-82f1.md",
+   "content-file": ".guides/content/Arrays-explained-82f1.md",
    "chapter": true,
    "reset": [
     "1-arrays"
@@ -45,11 +87,6 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "1-arrays/example1.flode",
-     "panel": 0,
-     "action": "open"
     }
    ],
    "layout": "",
@@ -62,8 +99,18 @@
   {
    "id": "7a8fcd98-907-392-7738-8b0be186b1d4",
    "title": "Arrays in action",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-arrays/example1.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Arrays-in-action-7a8f.md",

@@ -1,0 +1,130 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1116072670",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Max number",
+   "instructions": "We will pass in an array of numbers. Your job is to find the largest number in that array and output **its index**, not the actual value.\n\n**Tip:** you will need to use a utility variable to store the maximum value and a decision to see if each number is bigger than the current maximum value encountered in previous iterations.",
+   "command": "node max.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1147907621",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Simple number search",
+   "instructions": "We will pass you 2 inputs\n\n- an array of numbers\n- a number, N,  to look for\n\nYour job is to loop through the array and find the number specified in the second input. Output the array element index where you find the number.\n\nIf N is not found in the array, output -1.",
+   "command": "node numsearch.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3108402535",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "1 in, 2 out",
+   "instructions": "We are passing in an array of numbers. You need to create 2 new arrays in your chart, then\n\n- put all odd numbers in one array\n- put all even numbers in the other array\n- output the odd array first, the even array second\n\n**Tip:** you should use the *modulo* operator to decide whether the number is odd or even. `input0[index] % 2` will be 0 if even and 1 if odd.\n\nDon't forget to define the 2 new arrays before you start adding elements to them.",
+   "command": "node split.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3207521382",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Short string array",
+   "instructions": "Create your own array of strings. Call the array anything you like as long as it is a valid variable name.\n\n- The array should contain 3 elements\n- The first element should contain 'AAA'\n- The second element should contain 'BBB'\n- The third element should contain 'CCC'\n\nOutput the array. ",
+   "command": "node strarray.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3371938953",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Longest string",
+   "instructions": "We pass in an array of strings. One of the strings is longer than the others. \n\nOutput the array index of that element (not the string itself).\n\n**Tip:** the way to find the length of the string is to use `myString.length`, so the same way you get the length of an array. As you are inspecting array elements, you would use `input0[index].length.",
+   "command": "node maxstring.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3847250861",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Populate new array",
+   "instructions": "We provide you with a number N. \n\nCreate an array then, using a loop, populate the array with N elements. Set each array element to the index multiplied by 10. \n\n**Beware:** we might pass in a value 0, in which case you should return an empty array.",
+   "command": "node populate.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3916901719",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Sum array values",
+   "instructions": "We are passing in an array of numbers. Add up all the array elements and output the result.",
+   "command": "node sum.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4030970452",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "X 10 every other",
+   "instructions": "We are passing in 3 inputs.\n\n- an array of numbers\n- a multiplier value, M\n- a value, N\n\nYou should multiply every Nth element (do not multiply the 0th element) by M. So, if N is 3, you start with the 3rd element, which is index 2.\n\nIf there are less than N elements then you should output the unchanged input array.",
+   "command": "node x10.js",
+   "points": 1
+  }
+ }
+]

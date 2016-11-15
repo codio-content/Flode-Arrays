@@ -12,12 +12,10 @@ for(var i = 0; i < random; i ++) {
   input.push(Math.round(Math.random() * 99 + 1));
 }
 
-var out = testing.RunGraphWithInputs(script, [input, m, n]);
+var out = testing.RunGraphWithInputs(script, [input.slice(0), m, n]);
 
-for(var i = 0; i < random; i ++) {
-  if(i > 0 && (i + 1) % n == 0) {
+for(var i = n - 1; i < random; i+=n) {
     input[i] *= m;
-  }
 }
 
 // console.log(m)

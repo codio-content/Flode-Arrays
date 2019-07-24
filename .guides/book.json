@@ -1,0 +1,126 @@
+{
+ "name": "Flode-Arrays",
+ "children": [
+  {
+   "title": "Arrays",
+   "id": "e942483c-b1f4-42b7-e597-33caf2e0e0",
+   "pageId": "e942483c-b1f4-42b7-e597-33caf2e0e0",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Preparation video",
+     "id": "21716d87-335-fce8-1c91-31e242f8a449",
+     "pageId": "21716d87-335-fce8-1c91-31e242f8a449",
+     "type": "page"
+    },
+    {
+     "title": "Experiments",
+     "id": "1e46398d-50ea-d061-25f0-26744848c984",
+     "pageId": "1e46398d-50ea-d061-25f0-26744848c984",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Arrays explained",
+   "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "pageId": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Array of numbers",
+     "id": "e154febe-a7a1-5343-46e8-fe988d135d9",
+     "pageId": "e154febe-a7a1-5343-46e8-fe988d135d9",
+     "type": "page"
+    },
+    {
+     "title": "Array of strings",
+     "id": "4d0391d-eda6-83d5-24e7-2987cc29fb0a",
+     "pageId": "4d0391d-eda6-83d5-24e7-2987cc29fb0a",
+     "type": "page"
+    },
+    {
+     "title": "Defining an array",
+     "id": "ff54e4d8-ab0e-92f9-6c0d-2405f5e0f028",
+     "pageId": "ff54e4d8-ab0e-92f9-6c0d-2405f5e0f028",
+     "type": "page"
+    },
+    {
+     "title": "Arrays in action",
+     "id": "7a8fcd98-907-392-7738-8b0be186b1d4",
+     "pageId": "7a8fcd98-907-392-7738-8b0be186b1d4",
+     "type": "page"
+    },
+    {
+     "title": "Challenge (array sum)",
+     "id": "97098570-1fad-f0c-c7df-dff5704285f9",
+     "pageId": "97098570-1fad-f0c-c7df-dff5704285f9",
+     "type": "page"
+    },
+    {
+     "title": "Setting array elements",
+     "id": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
+     "pageId": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Challenges",
+   "id": "f9d0614b-94f4-d39c-be02-6b1368709d95",
+   "pageId": "f9d0614b-94f4-d39c-be02-6b1368709d95",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Populate a new array",
+     "id": "e8b16add-98fa-34d2-4852-8dc4961d9576",
+     "pageId": "e8b16add-98fa-34d2-4852-8dc4961d9576",
+     "type": "page"
+    },
+    {
+     "title": "Short string array",
+     "id": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
+     "pageId": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
+     "type": "page"
+    },
+    {
+     "title": "Simple Number Search",
+     "id": "4d8cc68b-670f-9911-87a8-644c5fa904",
+     "pageId": "4d8cc68b-670f-9911-87a8-644c5fa904",
+     "type": "page"
+    },
+    {
+     "title": "Max number",
+     "id": "7510d998-2f84-be95-af18-be75d07f94",
+     "pageId": "7510d998-2f84-be95-af18-be75d07f94",
+     "type": "page"
+    },
+    {
+     "title": "X 10 every other",
+     "id": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
+     "pageId": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
+     "type": "page"
+    },
+    {
+     "title": "1 in, 2 out",
+     "id": "38373b23-a81-d9b3-7fcd-33fad4952452",
+     "pageId": "38373b23-a81-d9b3-7fcd-33fad4952452",
+     "type": "page"
+    },
+    {
+     "title": "All done!!",
+     "id": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
+     "pageId": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Teacher complete solutions",
+   "id": "f7109720-3218-2bf0-d26f-1ffa1e85c94",
+   "pageId": "f7109720-3218-2bf0-d26f-1ffa1e85c94",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
